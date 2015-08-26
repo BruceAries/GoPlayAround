@@ -2,14 +2,14 @@ package main
 
 import ( 
 	"fmt"
-	"github.com/bruceAries/stringutil"
+//	"github.com/bruceAries/stringutil"
 	"net"
 	"os"
 	"log"
 )
 
-func Main() {
-  fmt.Println( stringutil.Reverse( "Hello, Go" ) )
+func main() {
+//  fmt.Println( stringutil.Reverse( "Hello, Go" ) )
   
   //Network related trial
   addr := "baidu.com:80"
@@ -23,7 +23,7 @@ func Main() {
 
   //OS related trial
   {
-	f, err := os.Open( "github.com\\bruceAries\\hello\\hello.go" )
+	f, err := os.Open( "hello.go" )
 	if err != nil {
 		fmt.Println( err )
 
