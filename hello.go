@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-dfdpackage hello
-=======
 package main 
->>>>>>> a863ad80dd97ac20b844e0b473457d1816e2f0b1
 
 import ( 
 	"fmt"
