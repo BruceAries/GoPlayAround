@@ -48,4 +48,3 @@ func main() {
   
 
 for git difftool}
-kkkkk
