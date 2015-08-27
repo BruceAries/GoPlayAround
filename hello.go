@@ -47,10 +47,4 @@ func main() {
   }
   
 
-o
-
-
-
-
-
-for git difftool}
+//this is from github remote server
