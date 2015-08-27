@@ -47,4 +47,10 @@ func main() {
   }
   
 
+o
+
+
+
+
+
 for git difftool}
