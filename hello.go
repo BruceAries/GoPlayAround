@@ -46,4 +46,5 @@ func main() {
 	fmt.Println( d.Name(), d.Size(), d.ModTime() )
   }
   
-}
+
+for git difftool}
