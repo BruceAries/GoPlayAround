@@ -52,5 +52,4 @@ o
 
 
 
-
-for git difftool}
+fuck
